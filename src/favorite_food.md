@@ -1,5 +1,5 @@
 # favorite food
 
-ichigo
+apple
 
 test1
